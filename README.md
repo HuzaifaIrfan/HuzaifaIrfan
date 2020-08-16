@@ -34,11 +34,13 @@ Here are some ideas to get you started:
   <img align="left" alt="Huzaifa's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
  <br /><br />
+ 🚀 Founder and CEO at <a href="http://skiie.com/">Skiie</a> since 2012
+ <br /><br />
  🚀 I am a Mechanical Engineering Undergrad At Nust, Islamabad, Pakistan
  <br /><br />
-✨ I am a Software and Web Developer who loves to develop challanging Personal and Freelauncing Projects
+✨ I am a Software and Web Developer who loves to develop challanging Personal and Freelauncing Projects.
  <br /><br />
-💖 I love MOOCs, Youtube, Udemy, Coursera and all the platforms that are playing their role in free learning.
+💖 I love MOOCs, Youtube, Udemy, Coursera and all the platforms that are playing their role in learning.
  <br /><br />
 🐛 I can refine, educate and drive myself to be better me.
 
@@ -47,11 +49,10 @@ Here are some ideas to get you started:
 
 
  &nbsp;  &nbsp;  &nbsp;  ✅ I am constantly learning and never settle.<br />
- &nbsp;  &nbsp;  &nbsp;  ✅ I speak design, product, tech, and MOOCs.<br />
- &nbsp;  &nbsp;  &nbsp;  ✅ The buck stops with me.
+ &nbsp;  &nbsp;  &nbsp;  ✅ I speak Design, Product, Tech, MOOCs and Software Development<br />
  <br /><br />
  
-🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging Technology, innovative engineering solutions and case studies.
+🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging Technologies, Innovative engineering designs and solutions.
  <br /><br />
  
 👀 Domain Knowledge:<br />
@@ -60,10 +61,12 @@ Mechanical Engineering | IoT | Web Development | Application Development
  
 👨‍💻 Software/Skills:<br />
 
-Fusion 360 | Django | Python | IOT | Arduino and Raspberry PI
+Fusion 360 | Django | Python
 
 
  <br /><br />
  @ Contact me at <a href="mailto:huzaifairfan2001@gmail.com">huzaifairfan2001@gmail.com</a>
+ 
+ 
 🔗 Read More at http://huzaifairfan.com/
 
