@@ -82,7 +82,7 @@ Fusion 360 | Django | Python
 ### Languages and Tools:
 <img align="left" alt="Fusion 360" width="100px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/fusion360.png" />
 <img align="left" alt="Arduino" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/arduino.png" />
-<img align="left" alt="Raspberry PI" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/raspi.png" />
+<img align="left" alt="Raspberry PI" width="40px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/raspi.png" />
 <img align="left" alt="Linux" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/linux.png" />
 <img align="left" alt="Ubuntu" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/ubuntu.png" />
 <img align="left" alt="Terminal" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/terminal.png" />
@@ -95,7 +95,7 @@ Fusion 360 | Django | Python
 <img align="left" alt="Python" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/python.png" />
 <img align="left" alt="Django" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/django.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/mongodb.jpeg" />
-<img align="left" alt="Git" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/git.png" />
+<img align="left" alt="Git" width="40px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/github.png" />
 
 
