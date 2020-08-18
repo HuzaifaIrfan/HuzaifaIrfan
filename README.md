@@ -79,7 +79,7 @@ Fusion 360 | Django | Python
 
 
 
-<h3>Languages</h3>
+<h3>Languages and Tools</h3>
 
 <img align="left" alt="HTML5" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/css.png" />
@@ -89,7 +89,7 @@ Fusion 360 | Django | Python
 
 
 
-<h3>Tools</h3>
+<h3>.</h3>
 
 <img align="left" alt="Fusion 360" width="100px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/fusion360.png" />
 <img align="left" alt="Arduino" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/arduino.png" />
