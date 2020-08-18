@@ -88,6 +88,7 @@ Fusion 360 | Django | Python
 <img align="left" alt="Terminal" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/terminal.png" />
 <img align="left" alt="Nginx" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/nginx.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/visual-studio-code.png" />
+<br />
 <img align="left" alt="HTML5" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/javascript.png" />
