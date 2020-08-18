@@ -81,6 +81,8 @@ Fusion 360 | Django | Python
 
 ### Languages and Tools:
 <img align="left" alt="Fusion 360" width="100px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/fusion360.png" />
+<img align="left" alt="Arduino" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/arduino.png" />
+<img align="left" alt="Raspberry PI" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/raspi.png" />
 <img align="left" alt="Linux" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/linux.png" />
 <img align="left" alt="Ubuntu" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/ubuntu.png" />
 <img align="left" alt="Terminal" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/terminal.png" />
