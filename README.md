@@ -107,9 +107,11 @@ Fusion 360 | Django | Python
 -->
 
  <br /><br />
- @ Contact me at <a href="mailto:huzaifairfan2001@gmail.com">huzaifairfan2001@gmail.com</a>
+
+
+### @ Contact me at <a href="mailto:huzaifairfan2001@gmail.com">huzaifairfan2001@gmail.com</a>
  
  
-🔗 Read More at http://huzaifairfan.com/
+### 🔗 Read More at http://huzaifairfan.com/
 
 
