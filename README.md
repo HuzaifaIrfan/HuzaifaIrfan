@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <a href="mailto:huzaifairfan2001@gmail.com">
   <img align="left" alt="Huzaifa's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="http://huzaifairfan.com/">🔗</a>
  <br /><br />
  
 ## I'm a Software Developer and Researcher!
