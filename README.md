@@ -79,29 +79,31 @@ Fusion 360 | Django | Python
 
 
 ### Languages and Tools:
-<img align="left" alt="Fusion 360" width="100px" src="/img/fusion360.png" />
-<img align="left" alt="Linux" width="30px" src="/img/linux.png" />
-<img align="left" alt="Ubuntu" width="30px" src="/img/ubuntu.svg" />
-<img align="left" alt="Terminal" width="30px" src="/img/terminal.png" />
-<img align="left" alt="Nginx" width="50px" src="/img/nginx.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="/img/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="/img/html.png" />
-<img align="left" alt="CSS3" width="30px" src="/img/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="/img/javascript.png" />
-<img align="left" alt="Node.js" width="30px" src="/img/nodejs.png" />
-<img align="left" alt="Python" width="30px" src="/img/python.png" />
-<img align="left" alt="MongoDB" width="30px" src="/img/mongodb.jpeg" />
-<img align="left" alt="Git" width="30px" src="/img/git.png" />
-<img align="left" alt="GitHub" width="30px" src="/img/github.png" />
+<img align="left" alt="Fusion 360" width="100px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/fusion360.png" />
+<img align="left" alt="Linux" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/linux.png" />
+<img align="left" alt="Ubuntu" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/ubuntu.png" />
+<img align="left" alt="Terminal" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/terminal.png" />
+<img align="left" alt="Nginx" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/nginx.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/javascript.png" />
+<img align="left" alt="Node.js" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/nodejs.png" />
+<img align="left" alt="Python" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/python.png" />
+<img align="left" alt="Django" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/django.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/mongodb.jpeg" />
+<img align="left" alt="Git" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/github.png" />
+
 
 <!--
-<img align="left" alt="Sass" width="30px" src="/img/sass.png" />
+<img align="left" alt="Sass" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/sass.png" />
 
-<img align="left" alt="React" width="30px" src="/img/react.png" />
+<img align="left" alt="React" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/react.png" />
 -->
 <!--
-<img align="left" alt="SQL" width="30px" src="/img/sql.png" />
-<img align="left" alt="MySQL" width="30px" src="/img/mysql.png" />
+<img align="left" alt="SQL" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/sql.png" />
+<img align="left" alt="MySQL" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/blob/master/img/mysql.png" />
 -->
 
  <br /><br />
