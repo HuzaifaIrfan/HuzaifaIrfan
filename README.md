@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br /><br />
 ✨ I am a Software and Web Developer who loves to develop challanging Personal and Freelauncing Projects.
 <br /><br />
-💖 I love MOOCs, Youtube, Udemy, Coursera, skillshare and all the platforms that are playing their role in learning and improving your skills. 
+💖 I love MOOCs, Youtube, Udemy, Coursera and all the platforms that are playing their role in learning and improving your skills. 
 <br /><br />
 🐛 I can refine, educate and drive myself to be better me.
  <br /><br />
