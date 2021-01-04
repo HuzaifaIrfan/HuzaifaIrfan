@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="http://huzaifairfan.com/">🔗</a>
  <br /><br />
  
-## I'm a Software Developer and Researcher!
+## I'm a Mechanical Engineer, Software Developer and Researcher!
 🚀 Founder and CEO at <a href="http://skiie.com/">Skiie</a> since 2012
 <br /><br />
 🚀 I am a Mechanical Engineering Undergrad At Nust, Islamabad, Pakistan
