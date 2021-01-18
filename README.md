@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 # Huzaifa Irfan
 
 
-
+<h2 align='center'><samp><strong>👋, I am Huzaifa Irfan</strong></samp></h2>
+<h3 align='center'><strong>Portfolio🌐</strong></h3>
+<p align='center'>Mechanical Engineering Student | Web developer</p>
 
 <img align="right" src="https://profile-counter.glitch.me/huzaifairfan/count.svg" />
 <a href="https://www.linkedin.com/in/huzaifairfan/">
@@ -36,8 +38,7 @@ Here are some ideas to get you started:
 <a href="http://huzaifairfan.com/">🔗</a>
  <br /><br />
  
-## I'm a Mechanical Engineer, Software Developer and Researcher!
-🚀 Founder and CEO at <a href="http://skiie.com/">Skiie</a> since 2012
+
 <br /><br />
 🚀 I am a Mechanical Engineering Undergrad At Nust, Islamabad, Pakistan
 <br /><br />
@@ -53,10 +54,10 @@ Here are some ideas to get you started:
  <br /><br />
 👯 I’m looking to collaborate with other content creators and developers
  <br /><br />
-🥅 2020 Goals: Contribute more to Open Source projects and work on Freelaunce Projects.
+🥅 2021 Goals: Contribute more to Open Source projects and work on Freelaunce Projects.
 
 
-<br /><img src="https://github-readme-stats.vercel.app/api?username=HuzaifaIrfan&show_icons=true&hide_border=true&theme=vue" alt="Huzaifa Irfan's GitHub Stats" align="right">
+<br /><img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api?username=HuzaifaIrfan&show_icons=true&hide_border=true&theme=vue" alt="Huzaifa Irfan's GitHub Stats" align="right">
 
 
  &nbsp;  &nbsp;  &nbsp;  ✅ I am constantly learning and never settle.<br />
