@@ -119,9 +119,15 @@ Fusion 360 | Django | Python
 <br /><br />
 <br /><br />
 
+<p style="display: flex; justify-content: center;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
+
+
 ### @ Contact me at <a href="mailto:huzaifairfan2001@gmail.com">huzaifairfan2001@gmail.com</a>
  
  
 ### 🔗 Read More at http://huzaifairfan.com/
+
 
 
