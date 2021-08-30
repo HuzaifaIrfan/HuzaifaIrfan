@@ -56,7 +56,7 @@ Here are some ideas to get you started:
  -->
 
 <br /><img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api?username=HuzaifaIrfan&show_icons=true&hide_border=true&theme=vue" alt="Huzaifa Irfan's GitHub Stats" align="right">
-
+ <!-- 
 
  &nbsp;  &nbsp;  &nbsp;  ✅ I am constantly learning and never settle.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ I speak Design, Product, Tech, MOOCs and Software Development<br />
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
  
 🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging Technologies, Innovative engineering designs and solutions.
  <br /><br />
- <!-- 
+
 👀 Domain Knowledge:<br />
 Mechanical Engineering | IoT | Web Development | Application Development
  <br /><br />
@@ -78,7 +78,7 @@ Fusion 360 | Django | Python
 
 
 
-<h3>Languages and Tools</h3>
+<!-- <h3>Languages and Tools</h3> -->
 
 <img align="left" alt="HTML5" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/raw/master/img/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://github.com/HuzaifaIrfan/HuzaifaIrfan/raw/master/img/css.png" />
