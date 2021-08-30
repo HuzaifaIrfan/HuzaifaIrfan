@@ -39,10 +39,8 @@ Here are some ideas to get you started:
  <br /><br />
  
 
-<br /><br />
-🚀 I am a Mechanical Engineering Undergrad At Nust, Islamabad, Pakistan
-<br /><br />
-✨ I am a Software and Web Developer who loves to develop challanging Personal and Freelauncing Projects.
+<!-- <br /><br />
+🚀 I am a Mechanical Engineering Undergrad
 <br /><br />
 💖 I love MOOCs, Youtube, Udemy, Coursera and all the platforms that are playing their role in learning and improving your skills. 
 <br /><br />
@@ -54,8 +52,8 @@ Here are some ideas to get you started:
  <br /><br />
 👯 I’m looking to collaborate with other content creators and developers
  <br /><br />
-🥅 2021 Goals: Contribute more to Open Source projects and work on Freelaunce Projects.
-
+🥅 2021 Goals: Contribute more to Open Source projects and work on Freelance Projects.
+ -->
 
 <br /><img style="border-radius: 5px; margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api?username=HuzaifaIrfan&show_icons=true&hide_border=true&theme=vue" alt="Huzaifa Irfan's GitHub Stats" align="right">
 
@@ -66,7 +64,7 @@ Here are some ideas to get you started:
  
 🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging Technologies, Innovative engineering designs and solutions.
  <br /><br />
- 
+ <!-- 
 👀 Domain Knowledge:<br />
 Mechanical Engineering | IoT | Web Development | Application Development
  <br /><br />
@@ -74,7 +72,7 @@ Mechanical Engineering | IoT | Web Development | Application Development
 👨‍💻 Top Software/Skills:<br />
 
 Fusion 360 | Django | Python
-
+ -->
 
 
 
