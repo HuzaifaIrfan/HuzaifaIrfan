@@ -38,6 +38,7 @@
 <img style="border-radius: 5px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ### @ Contact me at <a href="mailto:contact@huzaifairfan.com">contact@huzaifairfan.com</a>
  
