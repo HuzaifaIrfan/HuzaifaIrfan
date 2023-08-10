@@ -3,7 +3,7 @@
 
 
 <h2 align='center'><samp><strong>👋, I am Huzaifa Irfan</strong></samp></h2>
-<p align='center'>Engineer | Developer | Student | Mentor | Web | Embedded | Mechanical</p>
+<p align='center'>Engineer | Developer | Mentor | Web | Embedded | Mechanical</p>
 
 <img align="right" src="https://profile-counter.glitch.me/huzaifairfan/count.svg" />
 <a href="https://www.linkedin.com/in/huzaifairfan/">
