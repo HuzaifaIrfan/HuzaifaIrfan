@@ -18,9 +18,9 @@
 <a href="http://huzaifairfan.com/">🔗</a>
  <br /><br />
  
-<p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaIrfan&layout=compact)
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaIrfan&layout=compact)
+
 
 <br /><br />
 <br /><br />
