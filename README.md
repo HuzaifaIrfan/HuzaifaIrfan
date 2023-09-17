@@ -21,12 +21,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaIrfan&layout=compact)
 
-
-<br /><br />
-<br /><br />
-<br /><br />
-
-
+<br />
+ 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
