@@ -5,18 +5,20 @@
 <h2 align='center'><samp><strong>👋, I am Huzaifa Irfan</strong></samp></h2>
 <p align='center'>Engineer | Developer | Mentor | Web | Embedded | Mechanical</p>
 
-<img align="right" src="https://profile-counter.glitch.me/huzaifairfan/count.svg" />
-<a href="https://www.linkedin.com/in/huzaifairfan/">
-  <img align="left" alt="Huzaifa's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/huzaifairfan2001/">
-  <img align="left" alt="Huzaifa's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="mailto:contact@huzaifairfan.com">
-  <img align="left" alt="Huzaifa's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="http://huzaifairfan.com/">🔗</a>
- <br /><br />
+<hr />
+
+<p align="center">
+<a href="https://www.huzaifairfan.com"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/huzaifairfan/"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/HuzaifaIrfan/"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
+<a href="mailto:contact@huzaifairfan.com"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/huzaifairfan2001/"><img src="https://img.shields.io/badge/-@huzaifairfan2001-cd486b?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/huzaifairfan2001/"><img src="https://img.shields.io/badge/-@huzaifairfan2001-4267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+<hr />
+
+<br />
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaIrfan&layout=compact)
@@ -25,11 +27,6 @@
  
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-### @ Contact me at <a href="mailto:contact@huzaifairfan.com">contact@huzaifairfan.com</a>
- 
- 
-### 🔗 Read More at http://huzaifairfan.com/
 
 
 
