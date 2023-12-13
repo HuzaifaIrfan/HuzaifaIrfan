@@ -3,7 +3,7 @@
 
 
 <h2 align='center'><samp><strong>👋, I am Huzaifa Irfan</strong></samp></h2>
-<p align='center'>Engineer | Developer | Mentor | Web | Embedded </p>
+<p align='center'>Engineer | Developer | Web | Embedded </p>
 
 <hr />
 
