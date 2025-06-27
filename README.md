@@ -1,8 +1,5 @@
 
-# Huzaifa Irfan
-
-
-<h2 align='center'><samp><strong>👋, I am Huzaifa Irfan</strong></samp></h2>
+# Hi there, I'm Huzaifa Irfan 👋
 
 <hr />
 
@@ -39,8 +36,8 @@
 <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">Robotics</a>
 -->
 
-<br />
- 
+<hr />
+
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
