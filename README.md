@@ -15,9 +15,11 @@
 <p align="center">
 <a href="https://github.com/HuzaifaIrfan-AI" target="_blank">AI</a> | 
 <a href="https://github.com/HuzaifaIrfan-Web" target="_blank">Web</a> | 
-<a href="https://github.com/HuzaifaIrfan-DevOps" target="_blank">DevOps</a>
+<a href="https://github.com/HuzaifaIrfan-DevOps" target="_blank">DevOps</a> | 
+<a href="https://github.com/HuzaifaIrfan-Security" target="_blank">Security</a>
 </p>
 <!--
+<a href="https://github.com/HuzaifaIrfan-DSA" target="_blank">DSA</a>
 <a href="https://github.com/HuzaifaIrfan-Infrastructure" target="_blank">Infrastructure</a>
 <a href="https://github.com/HuzaifaIrfan-Platform" target="_blank">Platform</a>
 -->
