@@ -28,11 +28,13 @@
 <a href="https://github.com/HuzaifaIrfan-Firmware" target="_blank">Firmware</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/HuzaifaIrfan-CAD" target="_blank">CAD</a>
+</p>
 <!--
 <a href="https://github.com/HuzaifaIrfan-Simulations" target="_blank">Simulations</a>
 <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">Automation</a>
 <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">IoT</a>
-<a href="https://github.com/HuzaifaIrfan-CAD" target="_blank">CAD</a>
 <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">Robotics</a>
 -->
 
