@@ -27,11 +27,11 @@
 
 
 <p align="center"> 
-  <a href="https://github.com/HuzaifaIrfan-CAD" target="_blank">CAD</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Simulations" target="_blank">Simulations</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">Automation</a> | 
   <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">IoT</a> | 
+  <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">Automation</a> | 
+  <a href="https://github.com/HuzaifaIrfan-Simulations" target="_blank">Simulations</a> | 
   <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">Robotics</a> | 
+  <a href="https://github.com/HuzaifaIrfan-CAD" target="_blank">CAD</a> | 
   <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">Games</a>
 </p>
 <p align="center"> 
@@ -44,6 +44,7 @@
 
 <hr />
 
+## 📁 Engineer exploring Systems, Embedded, and Full-Stack development — building across Web, IoT, and Automation.
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
