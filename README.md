@@ -44,7 +44,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📁 Engineer exploring Systems, Embedded, and Full-Stack development — building across Web, IoT, and Automation.
+## 🧑‍💻 Engineer exploring Systems, Embedded, and Full-Stack development — building across Web, IoT, and Automation.
 
 <p align="center">
  <img width="100%" src="assets/snake.svg" alt="snake"/>
@@ -58,4 +58,7 @@
 <p align="center">
  <img width="100%" src="assets/matrix.svg" alt="matrix"/>
 </p>
+
+
+## 1️0️1️0️1️0️1️1️Everything is Open-Source, if you can read binary
 
