@@ -1,13 +1,13 @@
-# Hi there, I'm Huzaifa Irfan 👋 [![Hire concaption on upwork: https://www.upwork.com/freelancers/huzaifairfan2001](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/huzaifairfan2001)
+<h1 align="center"> Hi there, I'm Huzaifa Irfan 👋 </h1>
 
 
 <hr />
 
 <p align="center">
-<a href="https://huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/huzaifairfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/HuzaifaIrfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
-<a href="mailto:contact@huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.huzaifairfan.com"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://github.com/HuzaifaIrfan/"><img src="https://img.shields.io/badge/-Github-4078c0?style=flat&logo=Github&logoColor=white"/></a>
+<a href="mailto:contact@huzaifairfan.com"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/huzaifairfan2001"><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logo=Upwork&logoColor=white"/></a>
 </p>
 
 <hr />
