@@ -1,5 +1,5 @@
+<h1 align="center">Hi there, I'm Huzaifa Irfan 👋</h1>
 
-# Hi there, I'm Huzaifa Irfan 👋
 
 <hr />
 
@@ -59,6 +59,6 @@
  <img width="100%" src="assets/matrix.svg" alt="matrix"/>
 </p>
 
-
-## 1️0️1️0️1️0️1️1️Everything is Open-Source, if you can read binary
+<h2 align="center">1️0️1️0️1️0️1️1️ </h2>
+<h2 align="center">Everything is Open-Source, if you can read binary</h2>
 
