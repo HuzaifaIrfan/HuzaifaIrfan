@@ -1,9 +1,13 @@
-<h1 align="center"> Hi there, I'm Huzaifa Irfan 👋 </h1>
+# 🧑‍💻 Huzaifa Irfan 👋
 
+**`🤖 Robotics and Automation Engineer`**
+
+Exploring Systems, Embedded, and Full-Stack Development — building across Desktop/Web, IoT, and Automation.
 
 <hr />
 
-<p align="center">
+
+<p align="left">
 <a href="https://www.huzaifairfan.com"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://github.com/HuzaifaIrfan/"><img src="https://img.shields.io/badge/-Github-4078c0?style=flat&logo=Github&logoColor=white"/></a>
 <a href="mailto:hi@huzaifairfan.com"><img src="https://img.shields.io/badge/-hi@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -42,130 +46,40 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🧑‍💻 Engineer exploring Systems, Embedded, and Full-Stack development — building across Web, IoT, and Automation.
 
 <p align="center">
  <img width="100%" src="assets/snake.svg" alt="snake"/>
 </p>
 
-# 💻 Tech Stack and Tools
 
-## 🧑‍💻 Frameworks
+### 🧰 Languages and Tools
 
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg">
-        FastAPI
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
-        Flask
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg">
-        Django
-    </td>
-</tr>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg">
-        React
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Next.js_wordmark.svg">
-        Nextjs
-    </td>
-      <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg">
-        PYQT6
-    </td>
-</tr>
-</table>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="ROS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" />
+<img  align="left" alt="embeddedc" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
+<img align="left" alt="qt" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
+<img align="left" alt="socketio" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" />
+
+<br />
 
 
-## 🈸 Languages
+## 🚧 Top Work
 
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-        Python
-    </td>
-     <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png">
-         Javascript
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png">
-        Typescript
-    </td>
-</tr>
-  <tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-        C++
-    </td>
-</tr>
-</table>
+[![Stairs App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=607 "Stairs App")](https://www.youtube.com/watch?v=phJr-eCjHw4)
 
-## 📱 Platforms
 
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
-        Linux
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">
-        Docker
-    </td>
-</tr>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg">
-        Raspberry PI
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Espressif_Logo.svg">
-      ESP8266 - ESP32
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Arduino_Logo_Registered.svg">
-        Arduino Microcontrollers
-    </td>
-</tr>
-</table>
 
-## 🧑‍💻 Software and Tools
-
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://easyeda.com/fonts/en-logo-w.svg">
-        EasyEDA
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/FreeCAD-wordmark.svg">
-        Freecad
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg">
-        Blender
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fusion360_Logo.png">
-        Autodesk-Fusion360
-    </td>
-</tr>
-</table>
+### 📊 Stats
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
  <img width="100%" src="assets/matrix.svg" alt="matrix"/>
