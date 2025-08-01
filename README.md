@@ -6,44 +6,76 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 <hr />
 
+[![GitHub Home](https://img.shields.io/badge/Home-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
+[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
+[![Upwork](https://img.shields.io/badge/Upwork-%23222.svg?style=for-the-badge&logo=upwork&logoColor=%2335B566)](https://www.upwork.com/freelancers/huzaifairfan2001)
 
-<p align="left">
-<a href="https://www.huzaifairfan.com"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://github.com/HuzaifaIrfan/"><img src="https://img.shields.io/badge/-Github-4078c0?style=flat&logo=Github&logoColor=white"/></a>
-<a href="mailto:hi@huzaifairfan.com"><img src="https://img.shields.io/badge/-hi@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/huzaifairfan2001"><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logo=Upwork&logoColor=white"/></a>
-</p>
 
 <hr />
+<p align="center">
+  <a href="https://github.com/HuzaifaIrfan-Web" target="_blank">
+    <img src="https://img.shields.io/badge/Web-blue.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-DevOps" target="_blank">
+    <img src="https://img.shields.io/badge/DevOps-orange.svg?style=for-the-badge&logo=devops&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-AI" target="_blank">
+    <img src="https://img.shields.io/badge/AI-4B0082.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/HuzaifaIrfan-Web" target="_blank">Web</a> | 
-  <a href="https://github.com/HuzaifaIrfan-DevOps" target="_blank">DevOps</a> | 
-  <a href="https://github.com/HuzaifaIrfan-AI" target="_blank">AI</a>
+  <a href="https://github.com/HuzaifaIrfan-Desktop" target="_blank">
+    <img src="https://img.shields.io/badge/Desktop-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Mobile" target="_blank">
+    <img src="https://img.shields.io/badge/Mobile-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Systems" target="_blank">
+    <img src="https://img.shields.io/badge/Systems-000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Firmware" target="_blank">
+    <img src="https://img.shields.io/badge/Firmware-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/HuzaifaIrfan-Desktop" target="_blank">Desktop</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Mobile" target="_blank">Mobile</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Systems" target="_blank">Systems</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Firmware" target="_blank">Firmware</a>
+  <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">
+    <img src="https://img.shields.io/badge/IoT-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">
+    <img src="https://img.shields.io/badge/Automation-41BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
+    <img src="https://img.shields.io/badge/CAE%20%2F%20Simulations-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">
+    <img src="https://img.shields.io/badge/Robotics-00CED1.svg?style=for-the-badge&logo=robotframework&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-CADCAM" target="_blank">
+    <img src="https://img.shields.io/badge/CAD%20%2F%20CAM-0696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">
+    <img src="https://img.shields.io/badge/Games-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/HuzaifaIrfan-Infrastructure" target="_blank">
+    <img src="https://img.shields.io/badge/Infrastructure-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Platform" target="_blank">
+    <img src="https://img.shields.io/badge/Platform-4632A8.svg?style=for-the-badge&logo=platformsh&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Security" target="_blank">
+    <img src="https://img.shields.io/badge/Security-008080.svg?style=for-the-badge&logo=kaspersky&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-DSA" target="_blank">
+    <img src="https://img.shields.io/badge/DSA-F89F1B.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
-<p align="center"> 
-  <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">IoT</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">Automation</a> | 
-  <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">CAE / Simulations</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">Robotics</a> | 
-  <a href="https://github.com/HuzaifaIrfan-CADCAM" target="_blank">CAD / CAM</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">Games</a>
-</p>
-<p align="center"> 
-  <a href="https://github.com/HuzaifaIrfan-Infrastructure" target="_blank">Infrastructure</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Platform" target="_blank">Platform</a> | 
-  <a href="https://github.com/HuzaifaIrfan-Security" target="_blank">Security</a> | 
-  <a href="https://github.com/HuzaifaIrfan-DSA" target="_blank">DSA</a>
-</p>
 
 
 
