@@ -138,8 +138,9 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 ## 🚧 Top Work
 
-[![Stairs App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=607 "Stairs App")](https://www.youtube.com/watch?v=phJr-eCjHw4)
-[![Nyan Linux](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61 "Nyan Linux")](https://www.youtube.com/watch?v=j4AJb-qvTO4)
+[![Matrix 3D Snake Game](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake+Game&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=188)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
+[![Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+Manufacturing+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=607)](https://www.youtube.com/watch?v=phJr-eCjHw4)
+[![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
 
 
 ### 📊 Stats
