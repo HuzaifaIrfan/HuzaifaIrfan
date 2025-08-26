@@ -152,7 +152,9 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 ### 📊 Stats
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<p align="center">
+ <img width="100%" src="profile-3d-contrib/profile-night-view.svg" alt="profile-3d-contrib"/>
+</p>
 
 <p align="center">
  <img width="100%" src="assets/matrix.svg" alt="matrix"/>
