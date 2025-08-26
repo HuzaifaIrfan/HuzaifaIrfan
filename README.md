@@ -6,10 +6,17 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 <hr />
 
-[![GitHub Home](https://img.shields.io/badge/Home-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![GitHub](https://img.shields.io/badge/Home-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
 [![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
 [![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
 [![Upwork](https://img.shields.io/badge/Upwork-%23222.svg?style=for-the-badge&logo=upwork&logoColor=%2335B566)](https://www.upwork.com/freelancers/huzaifairfan2001)
+
+
+[![Duolingo](https://img.shields.io/badge/Duolingo-%23222.svg?style=for-the-badge&logo=duolingo&logoColor=%2358CC02)](https://www.duolingo.com/profile/HuzaifaIrfan2001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222.svg?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/huzaifairfan/)
+[![Facebook](https://img.shields.io/badge/Facebook-%23222.svg?style=for-the-badge&logo=facebook&logoColor=%231877F2)](https://www.facebook.com/huzaifairfan2001/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23222.svg?style=for-the-badge&logo=instagram&logoColor=%23E4405F)](https://www.instagram.com/huzaifairfan2001/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23222.svg?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@huzaifairfan2001)
 
 
 <hr />
