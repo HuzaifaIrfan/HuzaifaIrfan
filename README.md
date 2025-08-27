@@ -6,18 +6,21 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 <hr />
 
-[![GitHub](https://img.shields.io/badge/Home-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![Github](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
 [![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
 [![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
+
 [![Upwork](https://img.shields.io/badge/Upwork-%23222.svg?style=for-the-badge&logo=upwork&logoColor=%2335B566)](https://www.upwork.com/freelancers/huzaifairfan2001)
-
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23222.svg?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@huzaifairfan2001)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%23222.svg?style=for-the-badge&logo=duolingo&logoColor=%2358CC02)](https://www.duolingo.com/profile/HuzaifaIrfan2001)
+[![Credly](https://img.shields.io/badge/Credly-%23222.svg?style=for-the-badge&logo=credly&logoColor=%23FF6B00)](https://www.credly.com/users/huzaifairfan/)
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-%23222.svg?style=for-the-badge&logo=googlemaps&logoColor=%234285F4)](https://www.google.com/maps/contrib/114282072913278434723/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23222.svg?style=for-the-badge&logo=whatsapp&logoColor=%2325D366)](https://wa.me/923155691280)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222.svg?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/huzaifairfan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%23222.svg?style=for-the-badge&logo=facebook&logoColor=%231877F2)](https://www.facebook.com/huzaifairfan2001/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23222.svg?style=for-the-badge&logo=instagram&logoColor=%23E4405F)](https://www.instagram.com/huzaifairfan2001/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23222.svg?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@huzaifairfan2001)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%23222.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/huzaifairfan2k1)
 
 <hr />
 <p align="center">
@@ -52,16 +55,16 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
     <img src="https://img.shields.io/badge/IoT-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">
-    <img src="https://img.shields.io/badge/Automation-41BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" />
+    <img src="https://img.shields.io/badge/Automation-010DF5.svg?style=for-the-badge&logo=home-assistant&logoColor=black" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
     <img src="https://img.shields.io/badge/CAE%20%2F%20Simulations-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">
-    <img src="https://img.shields.io/badge/Robotics-00CED1.svg?style=for-the-badge&logo=robotframework&logoColor=white" />
+    <img src="https://img.shields.io/badge/Robotics-000ED1.svg?style=for-the-badge&logo=robotframework&logoColor=black" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-CADCAM" target="_blank">
-    <img src="https://img.shields.io/badge/CAD%20%2F%20CAM-0696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/CAD%20%2F%20CAM-0096D7.svg?style=for-the-badge&logo=autodesk&logoColor=black" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">
     <img src="https://img.shields.io/badge/Games-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
