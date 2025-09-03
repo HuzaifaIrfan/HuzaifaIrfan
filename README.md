@@ -8,22 +8,28 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 [![Github](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
 [![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
-[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
-
-[![Upwork](https://img.shields.io/badge/Upwork-%23222.svg?style=for-the-badge&logo=upwork&logoColor=%2335B566)](https://www.upwork.com/freelancers/huzaifairfan2001)
 [![YouTube](https://img.shields.io/badge/YouTube-%23222.svg?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@huzaifairfan2001)
+[![Upwork](https://img.shields.io/badge/Upwork-%23222.svg?style=for-the-badge&logo=upwork&logoColor=%2335B566)](https://www.upwork.com/freelancers/huzaifairfan2001)
+
+![Contact:](https://img.shields.io/badge/Contact:-000000.svg?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23222.svg?style=for-the-badge&logo=whatsapp&logoColor=%2325D366)](https://wa.me/923155691280)
+
+![Others:](https://img.shields.io/badge/Others:-000000.svg?style=for-the-badge)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%23222.svg?style=for-the-badge&logo=duolingo&logoColor=%2358CC02)](https://www.duolingo.com/profile/HuzaifaIrfan2001)
 [![Credly](https://img.shields.io/badge/Credly-%23222.svg?style=for-the-badge&logo=credly&logoColor=%23FF6B00)](https://www.credly.com/users/huzaifairfan/)
 [![Google Maps](https://img.shields.io/badge/Google%20Maps-%23222.svg?style=for-the-badge&logo=googlemaps&logoColor=%234285F4)](https://www.google.com/maps/contrib/114282072913278434723/)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23222.svg?style=for-the-badge&logo=whatsapp&logoColor=%2325D366)](https://wa.me/923155691280)
+![Socials:](https://img.shields.io/badge/Socials:-000000.svg?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222.svg?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/huzaifairfan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%23222.svg?style=for-the-badge&logo=facebook&logoColor=%231877F2)](https://www.facebook.com/huzaifairfan2001/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23222.svg?style=for-the-badge&logo=instagram&logoColor=%23E4405F)](https://www.instagram.com/huzaifairfan2001/)
 [![Twitter](https://img.shields.io/badge/Twitter-%23222.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/huzaifairfan2k1)
 
 <hr />
+
 <p align="center">
+
   <a href="https://github.com/HuzaifaIrfan-Web" target="_blank">
     <img src="https://img.shields.io/badge/Web-blue.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -40,7 +46,7 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
     <img src="https://img.shields.io/badge/Desktop-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Mobile" target="_blank">
-    <img src="https://img.shields.io/badge/Mobile-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mobile-34A833.svg?style=for-the-badge&logo=android&logoColor=white" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Systems" target="_blank">
     <img src="https://img.shields.io/badge/Systems-000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
