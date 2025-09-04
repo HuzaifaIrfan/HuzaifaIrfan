@@ -92,6 +92,15 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 
 
+<hr />
+
+## 🚧 Top Work
+
+[![Matrix 3D Snake Game](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake+Game&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=188)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
+[![Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+Manufacturing+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=607)](https://www.youtube.com/watch?v=phJr-eCjHw4)
+[![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
+
+
 
 <p align="center">
  <img width="100%" src="assets/snake.svg" alt="snake"/>
@@ -149,12 +158,6 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 ## 📐CAD
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-## 🚧 Top Work
-
-[![Matrix 3D Snake Game](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake+Game&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=188)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
-[![Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+Manufacturing+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=607)](https://www.youtube.com/watch?v=phJr-eCjHw4)
-[![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
 
 
 ### 📊 Stats
