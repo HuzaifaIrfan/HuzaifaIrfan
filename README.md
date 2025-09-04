@@ -30,18 +30,34 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 <p align="center">
 
-  <a href="https://github.com/HuzaifaIrfan-Web" target="_blank">
-    <img src="https://img.shields.io/badge/Web-blue.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">
+    <img src="https://img.shields.io/badge/Automation-010DF5.svg?style=for-the-badge&logo=home-assistant&logoColor=black" />
   </a>
-  <a href="https://github.com/HuzaifaIrfan-DevOps" target="_blank">
-    <img src="https://img.shields.io/badge/DevOps-orange.svg?style=for-the-badge&logo=devops&logoColor=white" />
+  <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">
+    <img src="https://img.shields.io/badge/IoT-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   </a>
-  <a href="https://github.com/HuzaifaIrfan-AI" target="_blank">
-    <img src="https://img.shields.io/badge/AI-4B0082.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">
+    <img src="https://img.shields.io/badge/Robotics-000ED1.svg?style=for-the-badge&logo=robotframework&logoColor=black" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-CADCAM" target="_blank">
+    <img src="https://img.shields.io/badge/CAD%20%2F%20CAM-0096D7.svg?style=for-the-badge&logo=autodesk&logoColor=black" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
+    <img src="https://img.shields.io/badge/CAE%20%2F%20Simulations-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">
+    <img src="https://img.shields.io/badge/Games-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
 </p>
 
+
 <p align="center">
+  <a href="https://github.com/HuzaifaIrfan-AI" target="_blank">
+    <img src="https://img.shields.io/badge/AI-4B0082.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-Web" target="_blank">
+    <img src="https://img.shields.io/badge/Web-blue.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://github.com/HuzaifaIrfan-Desktop" target="_blank">
     <img src="https://img.shields.io/badge/Desktop-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
@@ -57,27 +73,9 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 </p>
 
 <p align="center">
-  <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">
-    <img src="https://img.shields.io/badge/IoT-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <a href="https://github.com/HuzaifaIrfan-DevOps" target="_blank">
+    <img src="https://img.shields.io/badge/DevOps-orange.svg?style=for-the-badge&logo=devops&logoColor=white" />
   </a>
-  <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">
-    <img src="https://img.shields.io/badge/Automation-010DF5.svg?style=for-the-badge&logo=home-assistant&logoColor=black" />
-  </a>
-  <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
-    <img src="https://img.shields.io/badge/CAE%20%2F%20Simulations-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  </a>
-  <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">
-    <img src="https://img.shields.io/badge/Robotics-000ED1.svg?style=for-the-badge&logo=robotframework&logoColor=black" />
-  </a>
-  <a href="https://github.com/HuzaifaIrfan-CADCAM" target="_blank">
-    <img src="https://img.shields.io/badge/CAD%20%2F%20CAM-0096D7.svg?style=for-the-badge&logo=autodesk&logoColor=black" />
-  </a>
-  <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">
-    <img src="https://img.shields.io/badge/Games-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/HuzaifaIrfan-Infrastructure" target="_blank">
     <img src="https://img.shields.io/badge/Infrastructure-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   </a>
