@@ -39,11 +39,8 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
   <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">
     <img src="https://img.shields.io/badge/Robotics-000ED1.svg?style=for-the-badge&logo=robotframework&logoColor=black" />
   </a>
-  <a href="https://github.com/HuzaifaIrfan-CADCAM" target="_blank">
-    <img src="https://img.shields.io/badge/CAD%20%2F%20CAM-0096D7.svg?style=for-the-badge&logo=autodesk&logoColor=black" />
-  </a>
-  <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
-    <img src="https://img.shields.io/badge/CAE%20%2F%20Simulations-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <a href="https://github.com/HuzaifaIrfan-Manufacturing" target="_blank">
+    <img src="https://img.shields.io/badge/Manufacturing-FF6600.svg?style=for-the-badge&logo=siemens&logoColor=white" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">
     <img src="https://img.shields.io/badge/Games-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
@@ -70,7 +67,19 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
   <a href="https://github.com/HuzaifaIrfan-Firmware" target="_blank">
     <img src="https://img.shields.io/badge/Firmware-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" />
   </a>
+  <a href="https://github.com/HuzaifaIrfan-ECAD" target="_blank">
+    <img src="https://img.shields.io/badge/ECAD-006699.svg?style=for-the-badge&logo=kicad&logoColor=white" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-MCAD" target="_blank">
+    <img src="https://img.shields.io/badge/MCAD-0096D7.svg?style=for-the-badge&logo=autodesk&logoColor=black" />
+  </a>
+  <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
+    <img src="https://img.shields.io/badge/CAE-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+  </a>
 </p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/HuzaifaIrfan-DevOps" target="_blank">
