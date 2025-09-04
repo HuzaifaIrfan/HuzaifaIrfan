@@ -29,18 +29,14 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 <hr />
 
 <p align="center">
-
-  <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">
-    <img src="https://img.shields.io/badge/Automation-010DF5.svg?style=for-the-badge&logo=home-assistant&logoColor=black" />
-  </a>
   <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">
     <img src="https://img.shields.io/badge/IoT-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Robotics" target="_blank">
     <img src="https://img.shields.io/badge/Robotics-000ED1.svg?style=for-the-badge&logo=robotframework&logoColor=black" />
   </a>
-  <a href="https://github.com/HuzaifaIrfan-Manufacturing" target="_blank">
-    <img src="https://img.shields.io/badge/Manufacturing-FF6600.svg?style=for-the-badge&logo=siemens&logoColor=white" />
+  <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">
+    <img src="https://img.shields.io/badge/Automation-010DF5.svg?style=for-the-badge&logo=home-assistant&logoColor=black" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">
     <img src="https://img.shields.io/badge/Games-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
@@ -73,9 +69,9 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
   <a href="https://github.com/HuzaifaIrfan-MCAD" target="_blank">
     <img src="https://img.shields.io/badge/MCAD-0096D7.svg?style=for-the-badge&logo=autodesk&logoColor=black" />
   </a>
-  <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
+<!--   <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
     <img src="https://img.shields.io/badge/CAE-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 
