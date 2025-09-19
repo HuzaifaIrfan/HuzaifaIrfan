@@ -8,8 +8,7 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 [![Github](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
 [![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23222.svg?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@huzaifairfan2001)
-[![Upwork](https://img.shields.io/badge/Upwork-%23222.svg?style=for-the-badge&logo=upwork&logoColor=%2335B566)](https://www.upwork.com/freelancers/huzaifairfan2001)
+
 
 ![Contact:](https://img.shields.io/badge/Contact:-000000.svg?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
@@ -17,6 +16,8 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 
 <!--   <
+[![YouTube](https://img.shields.io/badge/YouTube-%23222.svg?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@huzaifairfan2001)
+[![Upwork](https://img.shields.io/badge/Upwork-%23222.svg?style=for-the-badge&logo=upwork&logoColor=%2335B566)](https://www.upwork.com/freelancers/huzaifairfan2001)
 
 ![Others:](https://img.shields.io/badge/Others:-000000.svg?style=for-the-badge)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%23222.svg?style=for-the-badge&logo=duolingo&logoColor=%2358CC02)](https://www.duolingo.com/profile/HuzaifaIrfan2001)
