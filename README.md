@@ -15,12 +15,14 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 [![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23222.svg?style=for-the-badge&logo=whatsapp&logoColor=%2325D366)](https://wa.me/923155691280)
 
+
+<!--   <
+
 ![Others:](https://img.shields.io/badge/Others:-000000.svg?style=for-the-badge)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%23222.svg?style=for-the-badge&logo=duolingo&logoColor=%2358CC02)](https://www.duolingo.com/profile/HuzaifaIrfan2001)
 [![Credly](https://img.shields.io/badge/Credly-%23222.svg?style=for-the-badge&logo=credly&logoColor=%23FF6B00)](https://www.credly.com/users/huzaifairfan/)
 [![Google Maps](https://img.shields.io/badge/Google%20Maps-%23222.svg?style=for-the-badge&logo=googlemaps&logoColor=%234285F4)](https://www.google.com/maps/contrib/114282072913278434723/)
 
-<!--   <
 
 ![Socials:](https://img.shields.io/badge/Socials:-000000.svg?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222.svg?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/huzaifairfan/)
@@ -30,6 +32,8 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
  -->
 <hr />
 
+# 🛠 Explore My Work
+🚀 Click a Domain to View My Public Repositories
 <p align="center">
   <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">
     <img src="https://img.shields.io/badge/IoT-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
