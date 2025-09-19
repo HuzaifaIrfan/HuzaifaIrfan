@@ -20,12 +20,14 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 [![Credly](https://img.shields.io/badge/Credly-%23222.svg?style=for-the-badge&logo=credly&logoColor=%23FF6B00)](https://www.credly.com/users/huzaifairfan/)
 [![Google Maps](https://img.shields.io/badge/Google%20Maps-%23222.svg?style=for-the-badge&logo=googlemaps&logoColor=%234285F4)](https://www.google.com/maps/contrib/114282072913278434723/)
 
+<!--   <
+
 ![Socials:](https://img.shields.io/badge/Socials:-000000.svg?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222.svg?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/huzaifairfan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%23222.svg?style=for-the-badge&logo=facebook&logoColor=%231877F2)](https://www.facebook.com/huzaifairfan2001/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23222.svg?style=for-the-badge&logo=instagram&logoColor=%23E4405F)](https://www.instagram.com/huzaifairfan2001/)
 [![Twitter](https://img.shields.io/badge/Twitter-%23222.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/huzaifairfan2k1)
-
+ -->
 <hr />
 
 <p align="center">
