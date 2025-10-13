@@ -121,8 +121,11 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 ### Other Projects
 
-- [AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING - Final Year Project](https://github.com/inlights-ai/Inspecc-FYP)
-- [Controller for Shell and Tube Heat Exchanger Sensors Readings Data Collection for Analysis](https://github.com/HuzaifaIrfan-Firmware/heat-exchanger-sensors-reader)
+<table> <tr> 
+ <td width="50%"> <a href="https://github.com/inlights-ai/Inspecc-FYP"> <img src="https://github.com/inlights-ai/Inspecc-FYP/raw/main/doc/machine.jpg" alt="AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING - Final Year Project"> <p align="center"> <b>AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING</b> </p></a> </td> 
+ <td width="50%"> <a href="https://github.com/HuzaifaIrfan-Firmware/heat-exchanger-sensors-reader"> <img src="https://github.com/HuzaifaIrfan-Firmware/heat-exchanger-sensors-reader/raw/main/cover.jpg" alt="Controller for Shell and Tube Heat Exchanger Sensors Readings Data Collection for Analysis">  <p align="center"> <b>Controller for Shell and Tube Heat Exchanger</b></p></a> </td>
+</tr> </table>
+
 <p align="center">
  <img width="100%" src="assets/snake.svg" alt="snake"/>
 </p>
