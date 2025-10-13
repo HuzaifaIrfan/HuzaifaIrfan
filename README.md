@@ -108,10 +108,15 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 ## 🚧 Top Work
 
-[![Matrix 3D Snake Game](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake+Game&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=188)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
-[![Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+Manufacturing+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=607)](https://www.youtube.com/watch?v=phJr-eCjHw4)
-[![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
-
+[![ROS2 Turtlesim Catcher](https://ytcards.demolab.com/?id=g9Y4jOocdlM&title=ROS2+Turtlesim+Catcher&lang=en&timestamp=1759190400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=g9Y4jOocdlM)
+[![Matrix 3D Snake Game](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake+Game&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
+[![Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+Manufacturing+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=phJr-eCjHw4)
+[![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
+[![Android Controlled Washing Machine](https://ytcards.demolab.com/?id=oTMUrj1S7qQ&title=Android+Controlled+Washing+Machine&lang=en&timestamp=1698796800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/shorts/oTMUrj1S7qQ)
+[![Intelligent Traffic Signals POC](https://ytcards.demolab.com/?id=FdEx-1M6B1I&title=Intelligent+Traffic+Signals+POC&lang=en&timestamp=1668124800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=SS8l5yxn8Ys)
+[![Feedback Forms Filler Browser Extension](https://ytcards.demolab.com/?id=551Gv0hzzPY&title=Feedback+Forms+Filler+Browser+Extension&lang=en&timestamp=1639612800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=551Gv0hzzPY)
+[![ROS2 Gazebo PX4 Gesture Control](https://ytcards.demolab.com/?id=67wgGgZzRaQ&title=ROS2+Gazebo+PX4+Gesture+Control&lang=en&timestamp=1636416000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=67wgGgZzRaQ)
+[![Courier Tracking Scrapper API](https://ytcards.demolab.com/?id=4tkiwTr5nAg&title=Courier+Tracking+Scrapper+API&lang=en&timestamp=1628985600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=4tkiwTr5nAg)
 
 
 <p align="center">
