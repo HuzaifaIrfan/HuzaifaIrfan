@@ -8,7 +8,7 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 [![Github](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
 [![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
-
+[![Resume](https://img.shields.io/badge/Resume-%23222.svg?style=for-the-badge&logo=discord&logoColor==%234285F4)](https://huzaifairfan.com/HuzaifaIrfan-Resume.pdf)
 
 ![Contact:](https://img.shields.io/badge/Contact:-000000.svg?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
@@ -117,8 +117,12 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 [![Feedback Forms Filler Extension](https://ytcards.demolab.com/?id=551Gv0hzzPY&title=Feedback+Forms+Filler+Extension&lang=en&timestamp=1639612800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=551Gv0hzzPY)
 [![ROS2 Gazebo PX4 Gesture Control](https://ytcards.demolab.com/?id=67wgGgZzRaQ&title=ROS2+Gazebo+PX4+Gesture+Control&lang=en&timestamp=1636416000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=67wgGgZzRaQ)
 [![Courier Tracking Scrapper API](https://ytcards.demolab.com/?id=4tkiwTr5nAg&title=Courier+Tracking+Scrapper+API&lang=en&timestamp=1628985600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=4tkiwTr5nAg)
+[![Django Video Feed - Egerin](https://ytcards.demolab.com/?id=E1iwgNVqlrM&title=Django+Video+Feed+-+Egerin&lang=en&timestamp=1597363200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=E1iwgNVqlrM)
 
+### Other Projects
 
+- [AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING - Final Year Project](https://github.com/inlights-ai/Inspecc-FYP)
+- [Controller for Shell and Tube Heat Exchanger Sensors Readings Data Collection for Analysis](https://github.com/HuzaifaIrfan-Firmware/heat-exchanger-sensors-reader)
 <p align="center">
  <img width="100%" src="assets/snake.svg" alt="snake"/>
 </p>
