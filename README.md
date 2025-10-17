@@ -35,7 +35,12 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 # 🛠 Explore My Work
 🚀 Click a Domain to View My Public Repositories
+
+
 <p align="center">
+   <a href="#" >
+   <img src="https://img.shields.io/badge/Domains:-000000.svg?style=for-the-badge" alt="Domains:" />
+  </a>
   <a href="https://github.com/HuzaifaIrfan-IoT" target="_blank">
     <img src="https://img.shields.io/badge/IoT-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   </a>
@@ -52,6 +57,9 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 
 <p align="center">
+   <a href="#" >
+   <img src="https://img.shields.io/badge/Tech:-000000.svg?style=for-the-badge" alt="Tech:" />
+  </a>
   <a href="https://github.com/HuzaifaIrfan-AI" target="_blank">
     <img src="https://img.shields.io/badge/AI-4B0082.svg?style=for-the-badge&logo=openai&logoColor=white" />
   </a>
@@ -82,9 +90,11 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 </p>
 
 
-
-
+<!-- 
 <p align="center">
+  <a href="#" >
+   <img src="https://img.shields.io/badge/Others:-000000.svg?style=for-the-badge" alt="Others:" />
+  </a>
   <a href="https://github.com/HuzaifaIrfan-DevOps" target="_blank">
     <img src="https://img.shields.io/badge/DevOps-orange.svg?style=for-the-badge&logo=devops&logoColor=white" />
   </a>
@@ -101,7 +111,7 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
     <img src="https://img.shields.io/badge/DSA-F89F1B.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-
+ -->
 
 
 <hr />
