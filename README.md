@@ -50,9 +50,11 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
   <a href="https://github.com/HuzaifaIrfan-Automation" target="_blank">
     <img src="https://img.shields.io/badge/Automation-010DF5.svg?style=for-the-badge&logo=home-assistant&logoColor=black" />
   </a>
+ <!-- 
   <a href="https://github.com/HuzaifaIrfan-Games" target="_blank">
     <img src="https://img.shields.io/badge/Games-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   </a>
+  -->
 </p>
 
 
@@ -72,6 +74,9 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
   <a href="https://github.com/HuzaifaIrfan-Mobile" target="_blank">
     <img src="https://img.shields.io/badge/Mobile-34A833.svg?style=for-the-badge&logo=android&logoColor=white" />
   </a>
+ 
+ <br/>
+ 
   <a href="https://github.com/HuzaifaIrfan-Systems" target="_blank">
     <img src="https://img.shields.io/badge/Systems-000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
   </a>
@@ -84,9 +89,11 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
   <a href="https://github.com/HuzaifaIrfan-MCAD" target="_blank">
     <img src="https://img.shields.io/badge/MCAD-0096D7.svg?style=for-the-badge&logo=autodesk&logoColor=black" />
   </a>
-<!--   <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
+<!--  
+ <a href="https://github.com/HuzaifaIrfan-CAE" target="_blank">
     <img src="https://img.shields.io/badge/CAE-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  </a> -->
+  </a>
+ -->
 </p>
 
 
@@ -119,7 +126,7 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 ## 🚧 Top Work
 
 [![ROS2 Turtlesim Catcher](https://ytcards.demolab.com/?id=g9Y4jOocdlM&title=ROS2+Turtlesim+Catcher&lang=en&timestamp=1759190400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=g9Y4jOocdlM)
-[![Matrix 3D Snake Game](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake+Game&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
+[![Matrix 3D Snake](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
 [![Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+Manufacturing+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=phJr-eCjHw4)
 [![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
 [![Android Controlled Washing Machine](https://ytcards.demolab.com/?id=ZOG02uKlICg&title=Android+Controlled+Washing+Machine&lang=en&timestamp=1698796800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/shorts/ZOG02uKlICg)
