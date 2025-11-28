@@ -1,6 +1,6 @@
 # 🧑‍💻 Huzaifa Irfan 👋
 
-**`🤖 Robotics and Automation Engineer`**
+**`🤖 IoT and Automation Engineer`**
 
 Exploring Systems, Embedded, and Full-Stack Development — building across Desktop/Web, IoT, and Automation.
 
