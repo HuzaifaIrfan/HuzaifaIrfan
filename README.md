@@ -125,7 +125,11 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 ## 🚧 Top Work
 
+
+
+[![Matrix 3D Snake](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
 [![Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+Manufacturing+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=phJr-eCjHw4)
+[![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
 [![Android Controlled Washing Machine](https://ytcards.demolab.com/?id=ZOG02uKlICg&title=Android+Controlled+Washing+Machine&lang=en&timestamp=1698796800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/shorts/ZOG02uKlICg)
 [![Intelligent Traffic Signals POC](https://ytcards.demolab.com/?id=FdEx-1M6B1I&title=Intelligent+Traffic+Signals+POC&lang=en&timestamp=1668124800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=SS8l5yxn8Ys)
 [![Feedback Forms Filler Extension](https://ytcards.demolab.com/?id=551Gv0hzzPY&title=Feedback+Forms+Filler+Extension&lang=en&timestamp=1639612800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=551Gv0hzzPY)
