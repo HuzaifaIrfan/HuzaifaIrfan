@@ -125,24 +125,21 @@ Exploring Systems, Embedded, and Full-Stack Development — building across Desk
 
 ## 🚧 Top Work
 
-
-
-[![Matrix 3D Snake](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
 [![Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=Stairs+Manufacturing+App&lang=en&timestamp=1753747200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=phJr-eCjHw4)
-[![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
-[![Linux Keyboard LED Flasher Module](https://ytcards.demolab.com/?id=lZa0g9am51A&title=Linux+Keyboard+LED+Flasher+Module&lang=en&timestamp=1730481327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=lZa0g9am51A)
 [![Android Controlled Washing Machine](https://ytcards.demolab.com/?id=ZOG02uKlICg&title=Android+Controlled+Washing+Machine&lang=en&timestamp=1698796800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/shorts/ZOG02uKlICg)
+[![AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING](https://ytcards.demolab.com/?id=zndeZaoDFx8&title=Dimensional+Inspection+Machine&lang=en&timestamp=1685028661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=zndeZaoDFx8)
 [![Intelligent Traffic Signals POC](https://ytcards.demolab.com/?id=FdEx-1M6B1I&title=Intelligent+Traffic+Signals+POC&lang=en&timestamp=1668124800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=SS8l5yxn8Ys)
-[![Feedback Forms Filler Extension](https://ytcards.demolab.com/?id=551Gv0hzzPY&title=Feedback+Forms+Filler+Extension&lang=en&timestamp=1639612800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=551Gv0hzzPY)
-[![Courier Tracking Scrapper API](https://ytcards.demolab.com/?id=4tkiwTr5nAg&title=Courier+Tracking+Scrapper+API&lang=en&timestamp=1628985600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=4tkiwTr5nAg)
 [![Django Video Feed - Egerin](https://ytcards.demolab.com/?id=E1iwgNVqlrM&title=Django+Video+Feed+-+Egerin&lang=en&timestamp=1597363200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=E1iwgNVqlrM)
 
-### Other Projects
 
-<table> <tr> 
- <td width="50%"> <a href="https://github.com/inlights-ai/Inspecc-FYP"> <img src="https://github.com/inlights-ai/Inspecc-FYP/raw/main/doc/machine.jpg" alt="AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING - Final Year Project"> <p align="center"> <b>AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING</b> </p></a> </td> 
- <td width="50%"> <a href="https://github.com/HuzaifaIrfan-Firmware/heat-exchanger-sensors-reader"> <img src="https://github.com/HuzaifaIrfan-Firmware/heat-exchanger-sensors-reader/raw/main/cover.jpg" alt="Controller for Shell and Tube Heat Exchanger Sensors Readings Data Collection for Analysis">  <p align="center"> <b>Controller for Shell and Tube Heat Exchanger</b></p></a> </td>
-</tr> </table>
+
+## 🚧 Latest Work
+
+[![Matrix 3D Snake](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=Matrix+3D+Snake&lang=en&timestamp=1755388800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
+[![Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=Nyan+Linux+OS&lang=en&timestamp=1748784000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
+[![Linux Keyboard LED Flasher Module](https://ytcards.demolab.com/?id=lZa0g9am51A&title=Linux+Keyboard+LED+Flasher+Module&lang=en&timestamp=1730481327&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=lZa0g9am51A)
+[![Feedback Forms Filler Extension](https://ytcards.demolab.com/?id=551Gv0hzzPY&title=Feedback+Forms+Filler+Extension&lang=en&timestamp=1639612800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=551Gv0hzzPY)
+[![Courier Tracking Scrapper API](https://ytcards.demolab.com/?id=4tkiwTr5nAg&title=Courier+Tracking+Scrapper+API&lang=en&timestamp=1628985600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=4tkiwTr5nAg)
 
 <p align="center">
  <img width="100%" src="assets/snake.svg" alt="snake"/>
