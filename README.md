@@ -62,8 +62,11 @@ Exploring Systems, Embedded, and Web Development — building across Desktop/Web
    <a href="#" >
    <img src="https://img.shields.io/badge/Tech:-000000.svg?style=for-the-badge" alt="Tech:" />
   </a>
+  <a href="https://github.com/HuzaifaIrfan-Data" target="_blank">
+    <img src="https://img.shields.io/badge/Data-4B0082.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  </a>
   <a href="https://github.com/HuzaifaIrfan-AI" target="_blank">
-    <img src="https://img.shields.io/badge/AI-4B0082.svg?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI-4B0082.svg?style=for-the-badge&logo=minds&logoColor=white" />
   </a>
   <a href="https://github.com/HuzaifaIrfan-Web" target="_blank">
     <img src="https://img.shields.io/badge/Web-blue.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
