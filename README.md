@@ -128,6 +128,7 @@ Exploring Systems, Embedded, and Web Development — building across Desktop/Web
 
 ## 🚧 Top Work
 
+[![220260627 PC Unicode Text Input Android App](https://ytcards.demolab.com/?id=rv9DeyLV5Fg&title=2026+PC+Unicode+Text+Input+App&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=rv9DeyLV5Fg)
 [![20250728 Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=2025+Stairs+Manufacturing+App&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=phJr-eCjHw4)
 [![20240821 Android Controlled Washing Machine](https://ytcards.demolab.com/?id=0KOfMb7EBvc&title=2024+Android+Controlled+Washing+Machine&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=0KOfMb7EBvc)
 [![20210815 Courier Tracking Scrapper API](https://ytcards.demolab.com/?id=4tkiwTr5nAg&title=2021+Courier+Tracking+Scrapper+API&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=4tkiwTr5nAg)
@@ -137,6 +138,7 @@ Exploring Systems, Embedded, and Web Development — building across Desktop/Web
 
 ## 🚧 Latest Work
 
+[![20260617 Pinyin Zhuyin Converter](https://ytcards.demolab.com/?id=LEdohfP_Pvo&title=2026+Pinyin+Zhuyin+Converter&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=LEdohfP_Pvo)
 [![20260102 SBAF Contract Forecast Dashboard](https://ytcards.demolab.com/?id=2eiuoKW37lQ&title=2026+SBAF+Contract+Forecast+Dashboard&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=2eiuoKW37lQ)
 [![20250817 Matrix 3D Snake](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=2025+Matrix+3D+Snake&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
 [![20250602 Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=2025+Nyan+Linux+OS&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
