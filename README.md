@@ -128,24 +128,29 @@ Exploring Systems, Embedded, and Web Development — building across Desktop/Web
 
 ## 🚧 Top Work
 
-[![220260627 PC Unicode Text Input Android App](https://ytcards.demolab.com/?id=rv9DeyLV5Fg&title=2026+PC+Unicode+Text+Input+App&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=rv9DeyLV5Fg)
+
 [![20250728 Stairs Manufacturing App](https://ytcards.demolab.com/?id=phJr-eCjHw4&title=2025+Stairs+Manufacturing+App&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=phJr-eCjHw4)
 [![20260630 ESP8266 Washing Machine App Control](https://ytcards.demolab.com/?id=0KOfMb7EBvc&title=2023+Android+Controlled+Washing+Machine&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=0KOfMb7EBvc)
-[![20210815 Courier Tracking Scrapper API](https://ytcards.demolab.com/?id=4tkiwTr5nAg&title=2021+Courier+Tracking+Scrapper+API&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=4tkiwTr5nAg)
+[![20230525 AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING](https://ytcards.demolab.com/?id=zndeZaoDFx8&title=2023+Dimensional+Inspection+Machine&lang=en&timestamp=0&background_color=%230d1127&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=zndeZaoDFx8)
+[![20221111 Intelligent Traffic Signals POC](https://ytcards.demolab.com/?id=FdEx-1M6B1I&title=2022+Intelligent+Traffic+Signals+POC&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=SS8l5yxn8Ys)
 [![20200814 Django Video Feed - Egerin](https://ytcards.demolab.com/?id=E1iwgNVqlrM&title=2020+Django+Video+Feed+-+Egerin&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=E1iwgNVqlrM)
 
 
 
 ## 🚧 Latest Work
 
-[![20260617 Pinyin Zhuyin Converter](https://ytcards.demolab.com/?id=LEdohfP_Pvo&title=2026+Pinyin+Zhuyin+Converter&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=LEdohfP_Pvo)
+[![20260721 HanWrite Editor](https://ytcards.demolab.com/?id=Sba7GsTPTY4&title=20260721+HanWrite+Editor&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=Sba7GsTPTY4)
+[![20260721 Google Docs Chinese Tools](https://ytcards.demolab.com/?id=vIbFYCdyHvk&title=20260721+Google+Docs+Chinese+Tools&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=vIbFYCdyHvk)
+[![20260709 Pinyin to Zhuyin OCR Video Conversion](https://ytcards.demolab.com/?id=tAUeg_sfKqo&title=20260709+Pinyin+Zhuyin+Video+Conversion&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=tAUeg_sfKqo)
+[![20260627 PC Unicode Text Input Android App](https://ytcards.demolab.com/?id=rv9DeyLV5Fg&title=2026+PC+Unicode+Text+Input+App&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=rv9DeyLV5Fg)
+[![20260617 Pinyin Zhuyin Converter](https://ytcards.demolab.com/?id=4-l9tjFZXpM&title=2026+Pinyin+Zhuyin+Converter&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=4-l9tjFZXpM)
 [![20260102 SBAF Contract Forecast Dashboard](https://ytcards.demolab.com/?id=2eiuoKW37lQ&title=2026+SBAF+Contract+Forecast+Dashboard&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=2eiuoKW37lQ)
 [![20250817 Matrix 3D Snake](https://ytcards.demolab.com/?id=7YyrIgjaaYA&title=2025+Matrix+3D+Snake&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=7YyrIgjaaYA)
 [![20250602 Nyan Linux OS](https://ytcards.demolab.com/?id=j4AJb-qvTO4&title=2025+Nyan+Linux+OS&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=j4AJb-qvTO4)
 [![20241101 Linux Keyboard LED Flasher Module](https://ytcards.demolab.com/?id=lZa0g9am51A&title=2024+Linux+Keyboard+LED+Flasher+Module&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=lZa0g9am51A)
-[![20230525 AUTOMATED DIMENSIONAL INSPECTION OF MECHANICAL PARTS IN MASS PRODUCTION USING IMAGE PROCESSING](https://ytcards.demolab.com/?id=zndeZaoDFx8&title=2023+Dimensional+Inspection+Machine&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=zndeZaoDFx8)
-[![20221111 Intelligent Traffic Signals POC](https://ytcards.demolab.com/?id=FdEx-1M6B1I&title=2022+Intelligent+Traffic+Signals+POC&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=SS8l5yxn8Ys)
 [![20211216 Feedback Forms Filler Extension](https://ytcards.demolab.com/?id=551Gv0hzzPY&title=2021+Feedback+Forms+Filler+Extension&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=551Gv0hzzPY)
+[![20210815 Courier Tracking Scrapper API](https://ytcards.demolab.com/?id=4tkiwTr5nAg&title=2021+Courier+Tracking+Scrapper+API&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0)](https://www.youtube.com/watch?v=4tkiwTr5nAg)
+
 
 <p align="center">
  <img width="100%" src="assets/snake.svg" alt="snake"/>
@@ -215,4 +220,4 @@ Exploring Systems, Embedded, and Web Development — building across Desktop/Web
 
 <h2 align="center">1️0️1️0️1️0️1️1️ </h2>
 
-Last Updated on 2025-10-15
+Last Updated on 2026-08-28
